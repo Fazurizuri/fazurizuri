@@ -1,4 +1,4 @@
-## Hi there 👋
+![Rizwan Fazri](img/github-header-image.png)
 
 <!--
 **Fazurizuri/fazurizuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
