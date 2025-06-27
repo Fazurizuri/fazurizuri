@@ -1,5 +1,14 @@
 ![Rizwan Fazri](img/github-header-image.png)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fazurizuri/Fazurizuri/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fazurizuri/Fazurizuri/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fazurizuri/Fazurizuri/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ### Skils
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
@@ -7,6 +16,10 @@
 ### Stats
 
 ![Fazri's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazurizuri&show_icons=true&theme=transparent)
+
+<img src="https://raw.githubusercontent.com/Fazurizuri/Fazurizuri/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--
 **Fazurizuri/fazurizuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
