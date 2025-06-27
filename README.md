@@ -1,6 +1,6 @@
 ![Rizwan Fazri](img/github-header-image.png)
 
-###skils
+### skils
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
 
